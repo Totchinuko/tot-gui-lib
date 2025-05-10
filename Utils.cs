@@ -16,7 +16,7 @@ using Avalonia.Media.Imaging;
 using Avalonia.Platform;
 using Avalonia.Styling;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 public static class Utils
 {

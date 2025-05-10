@@ -2,7 +2,7 @@ using System.Data;
 using Avalonia;
 using Avalonia.Controls;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 public class WindowAutoPadding : Window
 {

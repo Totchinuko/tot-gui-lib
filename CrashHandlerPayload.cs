@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text.Json.Serialization;
 using tot_lib;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 [JsonSourceGenerationOptions(PropertyNameCaseInsensitive = true)]
 [JsonSerializable(typeof(CrashHandlerPayload))]

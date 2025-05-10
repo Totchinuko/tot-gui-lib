@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 public class BaseViewModel : INotifyPropertyChanged
 {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TrebuchetUtils
+namespace tot_gui_lib
 {
     public class TinyRequestBase<T>(object? sender, Action<T> callback) : ITinyMessage
     {

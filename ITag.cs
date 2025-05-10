@@ -1,7 +1,7 @@
 ﻿using System.Windows.Input;
 using Avalonia.Media;
 
-namespace TrebuchetUtils
+namespace tot_gui_lib
 {
     public interface ITag
     {

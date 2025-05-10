@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Windows.Input;
 
-namespace TrebuchetUtils
+namespace tot_gui_lib
 {
     public class ToggleCommand(
         Action<object?, bool> execute,

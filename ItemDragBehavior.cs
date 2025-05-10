@@ -16,7 +16,7 @@ using Avalonia.Xaml.Interactivity;
 using DynamicData.Binding;
 using tot_lib;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 /// <summary>
 /// 

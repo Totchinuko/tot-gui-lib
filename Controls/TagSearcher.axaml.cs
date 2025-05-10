@@ -14,7 +14,7 @@ using Avalonia.VisualTree;
 
 #endregion
 
-namespace TrebuchetUtils.Controls
+namespace tot_gui_lib.Controls
 {
     /// <summary>
     ///     Interaction logic for LabelSearcher.xaml

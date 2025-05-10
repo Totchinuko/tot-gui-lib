@@ -1,6 +1,6 @@
 using System;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 public interface IScrollController
 {

@@ -16,7 +16,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace TrebuchetUtils
+namespace tot_gui_lib
 {
     #region Message Types / Interfaces
 

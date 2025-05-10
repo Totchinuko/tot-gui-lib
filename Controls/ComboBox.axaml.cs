@@ -8,7 +8,7 @@ using Avalonia.Data;
 using Avalonia.ReactiveUI;
 using ReactiveUI;
 
-namespace TrebuchetUtils.Controls;
+namespace tot_gui_lib.Controls;
 
 public class ComboBoxItem(object item, bool selected, int index)
 {

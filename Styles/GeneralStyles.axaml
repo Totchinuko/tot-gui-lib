@@ -1,6 +1,6 @@
 <Styles xmlns="https://github.com/avaloniaui"
         xmlns:i="https://github.com/projektanker/icons.avalonia"
-        xmlns:u="clr-namespace:TrebuchetUtils"
+        xmlns:u="clr-namespace:tot_gui_lib"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <Styles.Resources>
         <ResourceDictionary>

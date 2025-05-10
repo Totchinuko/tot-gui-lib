@@ -7,7 +7,7 @@ using Avalonia.Media;
 
 #endregion
 
-namespace TrebuchetUtils.Controls
+namespace tot_gui_lib.Controls
 {
     /// <summary>
     ///     Interaction logic for Tag.xaml

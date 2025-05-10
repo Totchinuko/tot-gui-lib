@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text.Json;
 using System.Text.Json.Nodes;
 
-namespace TrebuchetUtils
+namespace tot_gui_lib
 {
     public class AppText
     {

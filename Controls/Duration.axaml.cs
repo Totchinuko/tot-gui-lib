@@ -11,7 +11,7 @@ using DynamicData;
 using Humanizer;
 using Humanizer.Localisation;
 
-namespace TrebuchetUtils.Controls;
+namespace tot_gui_lib.Controls;
 
 public partial class Duration : UserControl
 {

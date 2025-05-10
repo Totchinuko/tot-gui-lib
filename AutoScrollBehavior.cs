@@ -2,7 +2,7 @@ using System;
 using Avalonia.Controls;
 using Avalonia.Xaml.Interactivity;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 public class AutoScrollBehavior : StyledElementBehavior<Control>
 {

@@ -3,7 +3,7 @@ using Avalonia.Controls;
 using Avalonia.Input;
 using Avalonia.Markup.Xaml;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 public partial class TestWindow : Window
 {

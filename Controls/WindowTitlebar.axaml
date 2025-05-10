@@ -1,10 +1,10 @@
-﻿<UserControl x:Class="TrebuchetUtils.Controls.WindowTitlebar"
+﻿<UserControl x:Class="tot_gui_lib.Controls.WindowTitlebar"
              xmlns="https://github.com/avaloniaui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:i="https://github.com/projektanker/icons.avalonia"
-             xmlns:local="clr-namespace:TrebuchetUtils.Controls"
+             xmlns:local="clr-namespace:tot_gui_lib.Controls"
              mc:Ignorable="d"
              d:DesignHeight="30" d:DesignWidth="800">
     <UserControl.Styles>

@@ -11,7 +11,7 @@
         <Copyright>Copyright © $([System.DateTime]::Now.Year) Totchinuko https://github.com/Totchinuko</Copyright>
         <PackageLicenseExpression>GPL-2.0</PackageLicenseExpression>
         <Product>trebuchet-utils</Product>
-        <RootNamespace>TrebuchetUtils</RootNamespace>
+        <RootNamespace>tot_gui_lib</RootNamespace>
     </PropertyGroup>
     
 <!--    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">-->

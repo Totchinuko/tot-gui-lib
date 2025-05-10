@@ -5,7 +5,7 @@ using Avalonia.Data;
 using Avalonia.Interactivity;
 using Avalonia.Media;
 
-namespace TrebuchetUtils.Controls
+namespace tot_gui_lib.Controls
 {
     /// <summary>
     /// Interaction logic for WindowTitlebar.xaml

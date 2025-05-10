@@ -2,7 +2,7 @@ using Avalonia.Controls;
 using Avalonia.Input;
 using Avalonia.Xaml.Interactivity;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 public class AutoFocusBehavior : StyledElementBehavior<Control>
 {

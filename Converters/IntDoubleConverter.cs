@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Avalonia.Data.Converters;
 
-namespace TrebuchetUtils.Converters
+namespace tot_gui_lib.Converters
 {
     public sealed class IntDoubleConverter : IValueConverter
     {

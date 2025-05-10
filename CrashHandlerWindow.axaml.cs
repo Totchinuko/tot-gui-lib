@@ -1,7 +1,7 @@
 using Avalonia.Controls;
 using Avalonia.Interactivity;
 
-namespace TrebuchetUtils;
+namespace tot_gui_lib;
 
 public partial class CrashHandlerWindow : Window
 {

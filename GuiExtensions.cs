@@ -11,7 +11,7 @@ using Avalonia;
 using Avalonia.Media.Imaging;
 using VisualExtensions = Avalonia.VisualTree.VisualExtensions;
 
-namespace TrebuchetUtils
+namespace tot_gui_lib
 {
     public static class GuiExtensions
     {

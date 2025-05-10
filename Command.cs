@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace TrebuchetUtils
+namespace tot_gui_lib
 {
     public class Command : ICommand
     {
