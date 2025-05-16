@@ -170,12 +170,12 @@ public static class Utils
             Application.Current.RequestedThemeVariant.Key != ThemeVariant.Default.Key)
         {
             if (Application.Current.RequestedThemeVariant.Key == ThemeVariant.Dark.Key)
-                return tot_lib.Utils.GetEmbeddedTextFile<Classes>("tot-gui-lib.MarkdownHeaderDark.html");
-            return tot_lib.Utils.GetEmbeddedTextFile<Classes>("tot-gui-lib.MarkdownHeaderLight.html");
+                return tot_lib.Utils.GetEmbeddedTextFile<Classes>("tot_gui_lib.MarkdownHeaderDark.html");
+            return tot_lib.Utils.GetEmbeddedTextFile<Classes>("tot_gui_lib.MarkdownHeaderLight.html");
         }
 
         if (Application.Current.ActualThemeVariant.Key == ThemeVariant.Dark.Key)
-            return tot_lib.Utils.GetEmbeddedTextFile<Classes>("tot-gui-lib.MarkdownHeaderDark.html");
-        return tot_lib.Utils.GetEmbeddedTextFile<Classes>("tot-gui-lib.MarkdownHeaderLight.html");
+            return tot_lib.Utils.GetEmbeddedTextFile<Classes>("tot_gui_lib.MarkdownHeaderDark.html");
+        return tot_lib.Utils.GetEmbeddedTextFile<Classes>("tot_gui_lib.MarkdownHeaderLight.html");
     }
 }
