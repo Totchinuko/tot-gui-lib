@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text.Json.Serialization;
 using tot_lib;
+using tot_lib.OsSpecific;
 
 namespace tot_gui_lib;
 
